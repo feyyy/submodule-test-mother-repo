@@ -1,0 +1,4 @@
+[submodule "Assets/submodules/submodule-test-library-repo"]
+	path = Assets/submodules/submodule-test-library-repo
+	url = git@github.com:seyahdoo/submodule-test-library-repo.git
+	branch = master
